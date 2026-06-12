@@ -369,7 +369,7 @@ Open_To:
 
 <div align="center">
 
-<a href="mailto:yourmail@example.com">
+<a href="mailto:saicharanrao775@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
