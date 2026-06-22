@@ -312,18 +312,6 @@ Building scalable web and mobile applications using modern frontend and backend 
 
 </div>
 
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Saicharanra&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
