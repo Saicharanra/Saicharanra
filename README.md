@@ -64,7 +64,7 @@ I focus on transforming data into meaningful insights while creating efficient a
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
 </p>
 
 ## Frontend
