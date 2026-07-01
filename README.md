@@ -88,7 +88,11 @@ I focus on transforming data into meaningful insights while creating efficient a
 ## Analytics & BI
 
 <p align="center">
-Power BI • Excel • SQL • Data Visualization • Dashboard Development • Business Intelligence • Data Cleaning • ETL
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149658.png" alt="Data Analytics" width="140"/>
+</p>
+
+<p align="center">
+  <strong>Power BI • Excel • SQL • Data Visualization • Dashboard Development • Business Intelligence • Data Cleaning • ETL</strong>
 </p>
 
 ---
