@@ -108,7 +108,7 @@ I focus on transforming data into meaningful insights while creating efficient a
     Power BI • Excel • SQL • Data Visualization • Dashboard Development • Business Intelligence • Data Cleaning • ETL
   </strong>
 </p>
----
+
 
 # Data Analytics Expertise
 
