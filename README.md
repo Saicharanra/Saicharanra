@@ -91,18 +91,16 @@ I focus on transforming data into meaningful insights while creating efficient a
   <img src="https://cdn-icons-png.flaticon.com/512/4149/4149658.png" alt="Data Analytics" width="140"/>
 </p>
 
-
 <p align="center">
   <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="60"/>
-  <img src="https://skillicons.dev/icons?i=excel" alt="Excel" width="60"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="60"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60"/>
   <img src="https://img.icons8.com/color/96/combo-chart--v1.png" alt="Data Visualization" width="60"/>
   <img src="https://img.icons8.com/color/96/dashboard-layout.png" alt="Dashboard Development" width="60"/>
   <img src="https://img.icons8.com/color/96/business-report.png" alt="Business Intelligence" width="60"/>
   <img src="https://img.icons8.com/color/96/data-configuration.png" alt="Data Cleaning" width="60"/>
-  <img src="https://img.icons8.com/color/96/data-migration.png" alt="ETL" width="60"/>
+  <img src="https://img.icons8.com/color/96/process.png" alt="ETL" width="60"/>
 </p>
-
 <p align="center">
   <strong>
     Power BI • Excel • SQL • Data Visualization • Dashboard Development • Business Intelligence • Data Cleaning • ETL
