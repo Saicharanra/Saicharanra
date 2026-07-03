@@ -288,9 +288,6 @@ Building scalable web and mobile applications using modern frontend and backend 
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge\&logo=amazonaws)
 
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Java-F80000?style=for-the-badge\&logo=oracle)
 
 ## NPTEL
 
