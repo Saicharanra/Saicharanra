@@ -101,11 +101,6 @@ I focus on transforming data into meaningful insights while creating efficient a
   <img src="https://img.icons8.com/color/96/data-configuration.png" alt="Data Cleaning" width="60"/>
   <img src="https://img.icons8.com/color/96/process.png" alt="ETL" width="60"/>
 </p>
-<p align="center">
-  <strong>
-    Power BI • Excel • SQL • Data Visualization • Dashboard Development • Business Intelligence • Data Cleaning • ETL
-  </strong>
-</p>
 
 
 # Data Analytics Expertise
