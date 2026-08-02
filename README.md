@@ -37,9 +37,6 @@
 ![](https://img.shields.io/github/stars/Saicharanra?style=for-the-badge\&color=9333EA)
 
 </div>
-
----
-
 # About
 
 Software Engineer, Data Analytics Engineer, and Full Stack Developer currently pursuing B.Tech at **Malla Reddy University, Hyderabad**.
