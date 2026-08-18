@@ -98,9 +98,6 @@ I focus on transforming data into meaningful insights while creating efficient a
   <img src="https://img.icons8.com/color/96/data-configuration.png" alt="Data Cleaning" width="60"/>
   <img src="https://img.icons8.com/color/96/process.png" alt="ETL" width="60"/>
 </p>
-
-
-
 <br>
 # Data Analytics Expertise
 
@@ -172,9 +169,6 @@ A web-based application designed to simplify user workflows and provide seamless
 
 <details>
 <summary><b>Mobile Data Analytics</b></summary>
-
-
-
 
 ### Overview
 
