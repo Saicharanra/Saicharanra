@@ -18,6 +18,9 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+
+
+
 <a href="https://www.linkedin.com/in/veeramaneni-sai-charan-72ab1a214/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -331,6 +334,8 @@ Building scalable web and mobile applications using modern frontend and backend 
 </div>
 
 ---
+
+
 
 # Current Focus
 
