@@ -6,6 +6,8 @@
 
 <br>
 
+
+
 ![](https://img.shields.io/badge/Malla%20Reddy%20University-B.Tech-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/Specialization-Data%20Analytics-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-9333EA?style=for-the-badge)
