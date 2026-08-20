@@ -5,9 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Data+Analytics+Engineer;Software+Engineer;Full+Stack+Developer;Building+Scalable+Applications;Power+BI+Developer;Open+Source+Contributor"/>
 
 <br>
-
-
-
 ![](https://img.shields.io/badge/Malla%20Reddy%20University-B.Tech-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/Specialization-Data%20Analytics-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-9333EA?style=for-the-badge)
@@ -19,9 +16,6 @@
 <a href="https://portfoliosaicharan.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-
-
 
 <a href="https://www.linkedin.com/in/veeramaneni-sai-charan-72ab1a214/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
