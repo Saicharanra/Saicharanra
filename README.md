@@ -5,14 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Data+Analytics+Engineer;Software+Engineer;Full+Stack+Developer;Building+Scalable+Applications;Power+BI+Developer;Open+Source+Contributor"/>
 
 <br>
-
 <img src="https://img.shields.io/badge/Malla%20Reddy%20University-B.Tech-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Specialization-Data%20Analytics-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-9333EA?style=for-the-badge"/>
 
 <br><br>
-
-
 
 <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
