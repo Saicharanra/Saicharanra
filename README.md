@@ -27,7 +27,9 @@
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
+<br>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Saicharanra&style=for-the-badge&color=7C3AED)
 ![Followers](https://img.shields.io/github/followers/Saicharanra?style=for-the-badge&color=4F46E5)
