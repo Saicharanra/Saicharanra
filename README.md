@@ -29,8 +29,6 @@
 
 <br>
 <br>
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Saicharanra&style=for-the-badge&color=7C3AED)
 ![Followers](https://img.shields.io/github/followers/Saicharanra?style=for-the-badge&color=4F46E5)
 ![Stars](https://img.shields.io/github/stars/Saicharanra?style=for-the-badge&color=9333EA)
@@ -60,7 +58,6 @@
 </details>
 
 ---
-
 ## About Me
 
 Software Engineer, Data Analytics Engineer, and Full Stack Developer currently pursuing a **B.Tech at Malla Reddy University, Hyderabad**.
