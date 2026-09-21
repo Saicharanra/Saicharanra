@@ -189,8 +189,6 @@ Contributed to modern data-driven solutions and analytics-focused platforms for 
 </tr>
 </table>
 
-
-
 ---
 
 ## Experience
