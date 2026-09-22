@@ -266,9 +266,7 @@ Building scalable web and mobile applications using modern frontend and backend 
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef"/>
 
 </div>
-
 ---
-
 ## GitHub Analytics
 
 <p align="center">
