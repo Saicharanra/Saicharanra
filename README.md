@@ -71,8 +71,6 @@ based_in: Hyderabad, India
 education: B.Tech, Malla Reddy University
 currently: Building analytics dashboards & full-stack applications
 ```
-
-
 ### Open To
 
 | | |
