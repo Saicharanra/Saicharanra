@@ -134,9 +134,6 @@ currently: Building analytics dashboards & full-stack applications
 | Reporting Automation | ██████░░░░ Intermediate | Analytics Workflows |
 
 ---
-
-
-
 ## Featured Projects
 
 <table>
