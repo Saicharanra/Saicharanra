@@ -120,9 +120,6 @@ currently: Building analytics dashboards & full-stack applications
 
 ---
 
-
-
-
 ## Data Analytics Expertise
 
 | Domain | Proficiency | Details |
