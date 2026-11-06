@@ -3,9 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Veeramaneni%20Sai%20Charan&fontSize=52&fontAlign=50&fontAlignY=42&color=0:4F46E5,50:7C3AED,100:9333EA&fontColor=ffffff&animation=fadeIn&desc=Data%20Analytics%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineer&descSize=18&descAlignY=66&descAlign=50"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=Turning+raw+data+into+meaningful+insight;Turning+ideas+into+working+products;Building+scalable+web+%26+mobile+applications;Power+BI+%7C+SQL+%7C+React+%7C+Node.js"/>
-
 <br/>
-
 <img src="https://img.shields.io/badge/B.Tech-Malla%20Reddy%20University-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Specialization-Data%20Analytics-4F46E5?style=for-the-badge&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=white"/>
