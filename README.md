@@ -353,6 +353,8 @@ I'm open to **Software Engineering**, **Data Analytics** and **Full Stack** oppo
 <a href="https://github.com/Saicharanra"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://portfoliosaicharan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/></a>
 
+
+
 <br/><br/>
 
 ### *"Transforming Data Into Insights, Ideas Into Products, and Challenges Into Opportunities."*
