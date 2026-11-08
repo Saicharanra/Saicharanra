@@ -22,9 +22,7 @@
 <img src="https://img.shields.io/github/stars/Saicharanra?style=for-the-badge&color=9333EA&logo=github"/>
 
 </div>
-
 <br/>
-
 <div align="center">
 
 [**About**](#-about-me) · [**Tech Stack**](#-tech-stack) · [**Analytics**](#-data-analytics-expertise) · [**Projects**](#-featured-projects) · [**Experience**](#-experience) · [**Certifications**](#-certifications) · [**Stats**](#-github-analytics) · [**Contact**](#-lets-connect)
