@@ -53,8 +53,6 @@ currently: Building analytics dashboards
 </td>
 <td width="50%" valign="top">
 
-
-
 ### 🤝 Open To
 
 💼 **Software Engineering Internships**
