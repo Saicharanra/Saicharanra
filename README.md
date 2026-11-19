@@ -176,6 +176,8 @@ Analytics project that extracts insights from mobile usage datasets and presents
 </td>
 <td width="50%" valign="top">
 
+
+
 ### 🧠 DataPilotLabs
 Contributed to modern data-driven solutions and analytics-focused platforms for business intelligence and product innovation.
 
