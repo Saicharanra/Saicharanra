@@ -107,6 +107,8 @@ currently: Building analytics dashboards
 </tr>
 </table>
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4F46E5,50:7C3AED,100:9333EA"/>
 
 ## 📊 Data Analytics Expertise
