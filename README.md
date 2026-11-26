@@ -10,6 +10,7 @@
 
 <br/><br/>
 
+
 <a href="https://portfoliosaicharan.netlify.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-7C3AED?style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/veeramaneni-sai-charan-72ab1a214/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:saicharanrao775@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
